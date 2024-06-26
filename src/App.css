@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  padding: 0px;
+
+}
+
+#root {
+  max-width: 1320px;
+  height: 580px;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: lightseagreen;
+}
